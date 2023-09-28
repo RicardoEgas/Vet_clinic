@@ -28,7 +28,7 @@
 # 📖 Vet Clinic <a name="about-project"></a>
 
 
-**Vet Clinic** is a psql database data structure.
+**Vet Clinic** is a database storage project using PostgreSQL (psql) to efficiently manage and store information related to a vet clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -98,7 +98,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/HtetWaiYan7191/issues).
+Feel free to check the [issues page](https://github.com/RicardoEgas/Vet_clinic/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
