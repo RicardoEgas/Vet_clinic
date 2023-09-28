@@ -56,9 +56,9 @@ ROLLBACK TO delete_all_born_after_Jan1st22;
 
 UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg < 0 ;
 
-COMMIT;
-
 SELECT name , weight_kg from animals;
+
+COMMIT;
 
 SELECT COUNT(*) FROM animals;
 
